@@ -1,5 +1,7 @@
 # PowerPlug
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/stursby/powerplug/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 PowerPlug lets you easily control [Plug](http://www.plugformac.com/) from [Alfred](http://www.alfredapp.com/). PowerPlug is an Alfred [Workflow](http://support.alfredapp.com/workflows) that requires [Powerpack](http://www.alfredapp.com/powerpack/). Here's a quick look at how it works:
 
 ![Demo](images/pp_demo.gif)
