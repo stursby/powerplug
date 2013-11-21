@@ -31,7 +31,7 @@ Example: `"pp next"` will skip to the next track.
 
 ## License
 
-Hyped is licensed [MIT](http://opensource.org/licenses/MIT)
+PowerPlug is licensed [MIT](http://opensource.org/licenses/MIT)
 
 * * *
 
